@@ -1,4 +1,4 @@
-IPv6｜超级,#genre#
+IPv6超级,#genre#
 莱州综合,rtmp://alivealone.litenews.cn/239/73fb801e56694ed0a85d8d74009fba8e
 莱州综合,http://alivealone.litenews.cn/239/73fb801e56694ed0a85d8d74009fba8e.flv
 莱州商务,rtmp://alivealone.litenews.cn/239/3647115a7bf342e49c3209ebb34b36a1
