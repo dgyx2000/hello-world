@@ -1,4 +1,39 @@
-🚛IPv6｜超级,#genre#
+央视,#genre#
+CCTV1 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV1 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV2 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV3 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV4 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+CCTV5 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+ 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+ 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV6 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV6 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+CCTV7 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV9 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CCTV世界地理 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV兵器科技 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+CCTV央视台球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV央视文化精品 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+CCTV女性时尚 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
+CCTV怀旧剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV电视指南 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+CCTV第一剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+CCTV风云剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw3324980988_-41690276/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8?icpid=3&RTS=1674379145&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1674379617&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
@@ -155,6 +190,7 @@ CCTV17 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw2053469
 CCTV17 5.5M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_313977963/ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8?icpid=3&RTS=1674386157&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV17HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw1418270804_-738667041/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1674381533&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 CCTV高尔夫网球,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1439464013_-1071136747/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8?icpid=3&RTS=1674381554&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+卫视,#genre#
 东南卫视 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1460673280_696172443/ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8?icpid=3&RTS=1674381576&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 东南卫视 5.5M1080HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1481870012_-1505625723/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1674381597&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 东南卫视HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/wh7f454c46tw91318118_1728721263/ott.mobaibox.com/PLTV/3/224/3221228428/index.m3u8?icpid=3&RTS=1674371616&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
@@ -308,42 +344,6 @@ CHC动作电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 CHC家庭影院 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 黑龙江卫视 4M1080HEVC,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-CCTV1 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV4 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-CCTV5 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+ 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+ 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV6 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-CCTV7 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV9 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV世界地理 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV兵器科技 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-CCTV央视台球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV央视文化精品 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-CCTV女性时尚 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
-CCTV怀旧剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV电视指南 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-CCTV第一剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-CCTV风云剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 精彩综艺 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 浙江卫视 3M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 浙江卫视 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
@@ -460,41 +460,6 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 江苏优漫卡通 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 江苏财富天下 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 湖南金鹰卡通 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
-陕西公共 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
-陕西影视 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
-陕西新闻资讯 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
-陕西都市青春 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
-陕西生活 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-陕西西部电影 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-西安新闻综合 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
-西安城市 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226367/index.m3u8
-西安商务资讯 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226368/index.m3u8
-西安影视 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226369/index.m3u8
-西安丝路 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
-西安教育 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-勉县综合 8M576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226952/index.m3u8
-南郑1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226955/index.m3u8
-咸阳综合 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
-延安公共 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226375/index.m3u8
-延安新闻综合 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226374/index.m3u8
-榆林1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226377/index.m3u8
-渭南 4M576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226376/index.m3u8
-略阳1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226322/index.m3u8
-铜川1 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226379/index.m3u8
-铜川2 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226380/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-陕西体育休闲 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
-莱州综合,rtmp://alivealone.litenews.cn/239/73fb801e56694ed0a85d8d74009fba8e
-莱州综合,http://alivealone.litenews.cn/239/73fb801e56694ed0a85d8d74009fba8e.flv
-莱州商务,rtmp://alivealone.litenews.cn/239/3647115a7bf342e49c3209ebb34b36a1
-莱州商务,http://alivealone.litenews.cn/239/3647115a7bf342e49c3209ebb34b36a1.flv
+
+
+
