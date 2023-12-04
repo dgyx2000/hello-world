@@ -464,7 +464,7 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 江苏优漫卡通 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 江苏财富天下 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 湖南金鹰卡通 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
- 辽宁都市,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8  
+辽宁都市,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226760/index.m3u8  
 辽宁经济,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226735/index.m3u8  
 辽宁教育,http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226763/index.m3u8 
 辽宁公共http://39.135.129.165/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226766/index.m3u8  
