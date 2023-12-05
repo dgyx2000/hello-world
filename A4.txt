@@ -141,7 +141,6 @@ NNM家庭理财 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122624
 江苏优漫卡通 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 江苏财富天下 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 湖南金鹰卡通 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
-
 好客山东,#genre#
 山东齐鲁,http://lu1.cc/itv/sdtv/sdtv.php?id=qlpd
 山东齐鲁,rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
