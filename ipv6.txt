@@ -3820,7 +3820,8 @@ http://43.138.170.29:35455/douyu/6610883
 大卫贝肯•倒霉特工熊(电影),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 反转星球(电影),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 
-熊大出没,#genre#
+ 熊出没,#genre#
+
 熊大出没01,
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/95f892f4039f4ee8b8eae1ba953ab221/1200.m3u8
 
