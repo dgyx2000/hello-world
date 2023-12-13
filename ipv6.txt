@@ -344,7 +344,6 @@ CCTV5+,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
 春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
 跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
-
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
@@ -480,8 +479,6 @@ T-ARA,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 香港电影,http://epg.112114.xyz/huya/11602058
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-
-
 刘华强,http://diyp.112114.xyz/douyu/2726977
 雍正专属,http://diyp.112114.xyz/douyu/9650836
 活佛济公,http://diyp.112114.xyz/douyu/8595134
@@ -500,7 +497,6 @@ T-ARA,http://tc-tct.douyucdn2.cn/dyliveflv3/17732rtara.flv?wsAuth=444b28368bc6cf
 经典港剧①,http://diyp.112114.xyz/douyu/4549169
 刘德华电影,http://diyp.112114.xyz/douyu/2516864
 康熙私访记,http://diyp.112114.xyz/douyu/7550220
-
 粤语综艺,http://epg.112114.xyz/douyu/7919720
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
@@ -2535,7 +2531,6 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 韩国太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
 
 虎牙,#genre#
-
 周星驰,https://live.metshop.top/huya/11342412
 SMG最强大脑,https://live.metshop.top/huya/11352914
 霸哥,https://live.metshop.top/huya/189201
@@ -3756,9 +3751,7 @@ LYTV-2,http://lu1.cc/itv/php/iqilu.php?id=dzly2
 
 
 
-
 少儿频道,#genre#
-
 金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://222.175.159.226:808/hls/202372/index.m3u8
 金鹰卡通,http://49.235.110.121:9090/daili/gudo.php?id=jykt
@@ -3774,30 +3767,22 @@ LYTV-2,http://lu1.cc/itv/php/iqilu.php?id=dzly2
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
-
 广东少儿,http://49.235.110.121:9090/daili/gudo.php?id=gdse
 广东少儿,http://8.217.90.28:9999/触电.php?id=gdse
 广东少儿,http://www.namewee.xyz/gudou.php?id=1457
 深圳少儿,http://49.235.110.121:9090/daili/yisz.php?id=szse
-
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
-
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 卡酷少儿,http://222.175.159.226:808/hls/202373/index.m3u8
 卡酷少儿,http://49.235.110.121:9090/daili/gudo.php?id=kkse
-
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,http://49.235.110.121:9090/daili/gudo.php?id=dmxc
-
 新动漫,http://49.235.110.121:9090/daili/gudo.php?id=xdm
-
 嘉佳卡通,http://49.235.110.121:9090/daili/gudo.php?id=jjkt
 嘉佳卡通,http://8.217.90.28:9999/触电.php?id=jjkt
 嘉佳卡通,http://183.15.172.180:38888/rtp/239.77.0.179:5146
 嘉佳卡通,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41133/index.m3u8
-
 嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459
-
 金色学堂,http://49.235.110.121:9090/daili/gudo.php?id=jsxt
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
 黑莓动画,http://111.40.196.36/PLTV/88888888/224/3221225628/index.m3u8
@@ -3809,7 +3794,6 @@ LYTV-2,http://lu1.cc/itv/php/iqilu.php?id=dzly2
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 热血老贼冒险,
 http://43.138.170.29:35455/douyu/6610883
-
 叮当猫,http://43.138.170.29:35455/douyu/9445279
 棉花糖和云朵妈妈(电影),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 熊出没•变形记(电影),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
