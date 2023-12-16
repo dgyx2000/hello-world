@@ -39,8 +39,7 @@
 黑莓动画,http://39.134.65.173/PLTV/88888888/224/3221225529/index.m3u8
 黑莓动画,http://39.134.65.166/PLTV/88888888/224/3221225529/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-热血老贼冒险,
-http://43.138.170.29:35455/douyu/6610883
+热血老贼冒险,http://43.138.170.29:35455/douyu/6610883
 叮当猫,http://43.138.170.29:35455/douyu/9445279
 棉花糖和云朵妈妈(电影),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 熊出没•变形记(电影),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
