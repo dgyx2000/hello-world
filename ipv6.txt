@@ -146,10 +146,6 @@ CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122697
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 卫视,#genre#
-莱州综合,rtmp://alivealone.litenews.cn/239/73fb801e56694ed0a85d8d74009fba8e
-莱州综合,http://alivealone.litenews.cn/239/73fb801e56694ed0a85d8d74009fba8e.flv
-莱州商务,rtmp://alivealone.litenews.cn/239/3647115a7bf342e49c3209ebb34b36a1
-莱州商务,http://alivealone.litenews.cn/239/3647115a7bf342e49c3209ebb34b36a1.flv
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
