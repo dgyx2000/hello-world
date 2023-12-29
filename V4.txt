@@ -1,4 +1,4 @@
-央视,#genre#
+央视V6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1925313110_1051745570/ott.mobaibox.com/PLTV/3/224/3221226316/index.m3u8?icpid=3&RTS=1674386335&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw3963514148_-902666800/ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8?icpid=3&RTS=1674379783&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb05_80&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3963797831_838224880/ott.mobaibox.com/PLTV/3/224/3221227494/index.m3u8?icpid=3&RTS=1674379784&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -26,7 +26,7 @@ CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1206123286_628
 CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1333382053_-338475462/ott.mobaibox.com/PLTV/3/224/3221227578/index.m3u8?icpid=3&RTS=1674381448&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1539643182_-109940761/ott.mobaibox.com/PLTV/3/224/3221227589/index.m3u8?icpid=3&RTS=1674385950&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-卫视,#genre#
+卫视V6,#genre#
 东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1460673280_696172443/ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8?icpid=3&RTS=1674381576&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1540523289_-2010744264/ott.mobaibox.com/PLTV/3/224/3221227597/index.m3u8?icpid=3&RTS=1674385950&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1300046831_-189750076/ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8?icpid=3&RTS=1674377120&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
@@ -65,7 +65,7 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c46tw1539643182_-10
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
 
-央卫备用,#genre#
+央卫备用V6,#genre#
 cctv1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 cctv2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 cctv3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
