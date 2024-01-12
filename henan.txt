@@ -73,7 +73,6 @@ CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/i
 CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-
 卫视,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
@@ -186,7 +185,6 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 北京冬奥纪实,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw561828427_-1362625921/ott.mobaibox.com/PLTV/3/224/3221227711/index.m3u8?icpid=3&RTS=1674380677&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 北京冬奥纪实,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw2056461541_1405788434/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1674386466&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-
 河南,#genre#
 河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw2373527465_-419963710/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1674386783&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 河南卫视,http://123.60.111.12:4567/henan.php?id=hnws
@@ -263,7 +261,6 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/i
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
 禹州公共,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
-
 央卫备用V6,#genre#
 CCTV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -384,7 +381,7 @@ CETV-1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/i
 CETV-2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV-4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-河南备用V4,#genre#
+河南备用,#genre#
 CCTV1,http://222.137.231.41:808/hls/1/index.m3u8
 CCTV2,http://222.137.231.41:808/hls/2/index.m3u8
 CCTV3,http://222.137.231.41:808/hls/3/index.m3u8
