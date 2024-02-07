@@ -287,6 +287,7 @@ QTV3,http://123.235.8.37:9901/tsfile/live/1013_1.m3u8
 QTV4,http://123.235.8.37:9901/tsfile/live/1014_1.m3u8
 QTV5,http://123.235.8.37:9901/tsfile/live/1015_1.m3u8
 QTV6,http://123.235.8.37:9901/tsfile/live/1016_1.m3u8
+WWE搏斗,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 央视,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -577,6 +578,7 @@ QTV3,http://123.235.8.37:9901/tsfile/live/1013_1.m3u8
 QTV4,http://123.235.8.37:9901/tsfile/live/1014_1.m3u8
 QTV5,http://123.235.8.37:9901/tsfile/live/1015_1.m3u8
 QTV6,http://123.235.8.37:9901/tsfile/live/1016_1.m3u8
+WWE搏斗,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 央视频道,#genre#
 CCTV4K超高清,https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
 CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
