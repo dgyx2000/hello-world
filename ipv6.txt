@@ -19,6 +19,10 @@ CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
+CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230984/1.m3u8
+CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230984/1.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
@@ -40,6 +44,10 @@ CCTV15,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/i
 CCTV16,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/2/224/3221228228/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230960/1.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1674379680&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 CCTV高尔夫网球,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1439464013_-1071136747/ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8?icpid=3&RTS=1674381554&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
