@@ -561,6 +561,7 @@ QTV5,http://123.235.8.37:9901/tsfile/live/1015_1.m3u8
 QTV6,http://123.235.8.37:9901/tsfile/live/1016_1.m3u8
 WWE搏斗,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 山东地方,#genre#
+莱州综合,http://47.101.165.239:666/shandong/qilu.php?id=ytlzzh
 山东综艺,http://60.208.44.186:9901/tsfile/live/1002_1.m3u8
 山东体育,http://60.208.44.186:9901/tsfile/live/1003_1.m3u8
 山东齐鲁,http://60.208.44.186:9901/tsfile/live/1000_1.m3u8
@@ -641,7 +642,6 @@ QTV6,http://123.235.8.37:9901/tsfile/live/1016_1.m3u8
 莱山综合,http://47.101.165.239:666/shandong/qilu.php?id=ytlszh
 莱山影视,http://47.101.165.239:666/shandong/qilu.php?id=ytlsys
 莱阳民生综艺,http://47.101.165.239:666/shandong/qilu.php?id=ytlyms
-莱州综合,http://47.101.165.239:666/shandong/qilu.php?id=ytlzzh
 牟平综合,http://47.101.165.239:666/shandong/qilu.php?id=ytmpzh
 蓬莱综合,http://47.101.165.239:666/shandong/qilu.php?id=ytplzh
 蓬莱综艺,http://47.101.165.239:666/shandong/qilu.php?id=ytplzy
