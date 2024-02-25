@@ -26,6 +26,9 @@ CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230984/1
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K超高清,https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
+CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CCTV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -308,6 +311,9 @@ CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV4K超高清,https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
+CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 CCTV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -881,24 +887,7 @@ HBO 家庭台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=78
 爱尔达体育Ⅲ台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=74
 爱尔达体育四台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=59
 ELEVEN1台,http://wuliji01.xiaozmax.top:10056/m3u/XGDL.php?id=58
-IPV4,#genre#
-CCTV-1高清,http://mtw.so/5UqsjP
-CCTV-2高清,http://mtw.so/69sStd
-CCTV-3高清,http://mtw.so/6gZ5xU
-CCTV-4高清,http://mtw.so/6oviAZ
-CCTV-5高清,http://mtw.so/5x7cQz
-CCTV-6标清,http://mtw.so/5EDpF8
-CCTV-7高清,http://mtw.so/5M9CJP
-CCTV-8高清,http://mtw.so/5UqsjZ
-CCTV-9高清,http://mtw.so/61WFoG
-CCTV-10高清,http://mtw.so/69sStn
-CCTV-11高清,http://mtw.so/6gZ5ws
-CCTV-12高清,http://mtw.so/6w1vFQ
-CCTV-13高清,http://mtw.so/5x7cQJ
-CCTV-14高清,http://mtw.so/5EDpFi
-CCTV-15高清,http://mtw.so/5MUffs
-CCTV-16高清,http://mtw.so/5Uqsk9
-CCTV-17高清,http://mtw.so/61WFoQ
+
 央视频道,#genre#
 CCTV4K超高清,https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
 CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
