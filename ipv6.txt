@@ -297,7 +297,7 @@ SiTV魅力足球,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 1088,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001087/index.m3u8?IASHttpSessionId=
 1089,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001088/index.m3u8?IASHttpSessionId=
 1090,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001089/index.m3u8?IASHttpSessionId=
-1091,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001090/index.m3u8?IASHttpSessionId=
+长岛综合,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001090/index.m3u8?IASHttpSessionId=
 1092,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001091/index.m3u8?IASHttpSessionId=
 1093,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001092/index.m3u8?IASHttpSessionId=
 1101 576,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00001100/index.m3u8?IASHttpSessionId=
