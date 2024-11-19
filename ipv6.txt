@@ -1,5 +1,4 @@
 咪咕央卫视IPV4,#genre#
-CCTV-6电影,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV-1,http://182.92.109.190:1668/migu720/migu720.php?id=cctv1
 CCTV-2,http://182.92.109.190:1668/migu720/migu720.php?id=cctv2
 CCTV-3,http://182.92.109.190:1668/migu720/migu720.php?id=cctv3
@@ -7,6 +6,7 @@ CCTV-4,http://182.92.109.190:1668/migu720/migu720.php?id=cctv4
 CCTV-5,http://182.92.109.190:1668/migu720/migu720.php?id=cctv5
 CCTV-5+,http://182.92.109.190:1668/migu720/migu720.php?id=cctv5p
 CCTV-6,http://182.92.109.190:1668/migu720/migu720.php?id=cctv6
+CCTV-6电影,http://mobilelive-timeshift.ysp.cctv.cn/ysp/2013693901/timeshift.m3u8?delay=0
 CCTV-7,http://182.92.109.190:1668/migu720/migu720.php?id=cctv7
 CCTV-8,http://182.92.109.190:1668/migu720/migu720.php?id=cctv8
 CCTV-9,http://182.92.109.190:1668/migu720/migu720.php?id=cctv9
