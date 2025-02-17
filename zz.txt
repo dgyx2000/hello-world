@@ -1,32 +1,16 @@
 香港台,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$V4(线路1)
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzxV4(线路1)
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhkV4(线路1)
 
-凤凰中文,http://108.181.20.221:27347/livehttpplay?channel_id=20065
-凤凰资讯,http://108.181.20.221:27347/livehttpplay?channel_id=20066
-凤凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067
+凤凰中文,http://108.181.20.221:27347/livehttpplay?channel_id=20065$V4(线路2)
+凤凰资讯,http://108.181.20.221:27347/livehttpplay?channel_id=20066V4(线路2)
+凤凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067V4(线路2)
 
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-14.ctvV4(线路30)
+凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzwV4(线路32)
 
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
-凤凰中文,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhchinese5s.m3u8
-凤凰资讯,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhzixun5s.m3u8
-凤凰香港,http://115.120.210.199/proxy/jsyd.php?p=cntv&id=HD-10000k-1080P-fhhongkong5s.m3u8
-
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
-凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
-凤凰香港,http://ali.hlspull.yximgs.com/live/820c9a3c59d8784e65008c4b35312ffa.flv
-凤凰香港,http://ali.hlspull.yximgs.com/live/7771ddsshabibscbmlgASKsKSHlsLSll00eqoklhdjhflhfsdfagksh-9999547666-8845f-52660dfb346liLecbcdncnpfhgkdfghdlivcctv9HDopdeafaiiiisgdbkasdfsbiiilllll1llllllllllllllllllilldfsldhfsfjlfjfdsklf4dlkfdfgksfhskfsfddlafakfhajdfsaad.flv
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
@@ -52,7 +36,7 @@
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-16.m3u8
-凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-14.ctv
+
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
@@ -113,7 +97,7 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
+
 凤凰资讯,http://php.jdshipin.com:8880/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com:8880/iptv.php?id=fhhk
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
