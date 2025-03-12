@@ -1,9 +1,9 @@
 公告,#genre#
-定期更新,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-能看就看,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-看不了换线路,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+定期更新,http://108.181.20.221:27347/livehttpplay?channel_id=20065$V4(线路1)
+能看就看,http://108.181.20.221:27347/livehttpplay?channel_id=20066$V4(线路1)
+看不了换线路,http://108.181.20.221:27347/livehttpplay?channel_id=20067$V4(线路1)
 
-香港台,#genre#
+香港台标清,#genre#
 凤凰中文,http://108.181.20.221:27347/livehttpplay?channel_id=20065$V4(线路1)
 凤凰资讯,http://108.181.20.221:27347/livehttpplay?channel_id=20066$V4(线路1)
 凤凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067$V4(线路1)
@@ -70,6 +70,58 @@ TVB Classic,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
 TVB Jade,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial 
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe 
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8 
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct 
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2 
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3 
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4 
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt 
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2 
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1 TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp 
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw 
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2 
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw 
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2 
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx 
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2 
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk 
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2 
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya 
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd 
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj 
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty 
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam 
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32 
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33 
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8 CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8 CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8 CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8 
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn 
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali 
+无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn 
+TVB星河, http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh 
+千禧经典台, http://php.jdshipin.com/TVOD/iptv.php?id=tvbc 
+TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment 
+天映频道, http://php.jdshipin.com/smt.php?id=Celestial 
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod Astro AEC,http://php.jdshipin.com/smt.php?id=AEC 
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi Astro 
+QJ,http://php.jdshipin.com/smt.php?id=Quanjia Astro
+欢喜台,http://php.jdshipin.com/smt.php?id=Huahee 
+八度空间,http://php.jdshipin.com/smt.php?id=TV8
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2 
+亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx 
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh 
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw 
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw 
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe 
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8 
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8 
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8 
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8 
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8 
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8 
+龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
 咪咕央卫1,#genre#
 
@@ -282,6 +334,100 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2
 云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=2
 浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6
+
+CCTV-1高清,https://tv.bfsu.edu.cn/hls/cctv1hd.m3u8
+CCTV-2高清,https://tv.bfsu.edu.cn/hls/cctv2hd.m3u8
+CCTV-3高清,https://tv.bfsu.edu.cn/hls/cctv3hd.m3u8
+CCTV-4高清,https://tv.bfsu.edu.cn/hls/cctv4hd.m3u8
+CCTV-5高清,https://tv.bfsu.edu.cn/hls/cctv5hd.m3u8
+CCTV-5+高清,https://tv.bfsu.edu.cn/hls/cctv5phd.m3u8
+CCTV-6高清,https://tv.bfsu.edu.cn/hls/cctv6hd.m3u8
+CCTV-7高清,https://tv.bfsu.edu.cn/hls/cctv7hd.m3u8
+CCTV-8高清,https://tv.bfsu.edu.cn/hls/cctv8hd.m3u8
+CCTV-9高清,https://tv.bfsu.edu.cn/hls/cctv9hd.m3u8
+CCTV-10高清,https://tv.bfsu.edu.cn/hls/cctv10hd.m3u8
+CCTV-11高清,https://tv.bfsu.edu.cn/hls/cctv11hd.m3u8
+CCTV-12高清,https://tv.bfsu.edu.cn/hls/cctv12hd.m3u8
+CCTV-13高清,https://tv.bfsu.edu.cn/hls/cctv13hd.m3u8
+CCTV-14高清,https://tv.bfsu.edu.cn/hls/cctv14hd.m3u8
+CCTV-15高清,https://tv.bfsu.edu.cn/hls/cctv15hd.m3u8
+CCTV-16高清,https://tv.bfsu.edu.cn/hls/cctv16hd.m3u8
+CCTV-17高清,https://tv.bfsu.edu.cn/hls/cctv17hd.m3u8
+北京卫视高清,https://tv.bfsu.edu.cn/hls/btv1hd.m3u8
+北京文艺高清,https://tv.bfsu.edu.cn/hls/btv2hd.m3u8
+北京纪实科教高清,https://tv.bfsu.edu.cn/hls/btv3hd.m3u8
+北京影视高清,https://tv.bfsu.edu.cn/hls/btv4hd.m3u8
+北京财经高清,https://tv.bfsu.edu.cn/hls/btv5hd.m3u8
+北京生活高清,https://tv.bfsu.edu.cn/hls/btv7hd.m3u8
+北京新闻高清,https://tv.bfsu.edu.cn/hls/btv9hd.m3u8
+Kaku少儿高清,https://tv.bfsu.edu.cn/hls/btv10hd.m3u8
+北京冬奥纪实高清,https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
+湖南卫视高清,https://tv.bfsu.edu.cn/hls/hunanhd.m3u8
+浙江卫视高清,https://tv.bfsu.edu.cn/hls/zjhd.m3u8
+江苏卫视高清,https://tv.bfsu.edu.cn/hls/jshd.m3u8
+东方卫视高清,https://tv.bfsu.edu.cn/hls/dfhd.m3u8
+安徽卫视高清,https://tv.bfsu.edu.cn/hls/ahhd.m3u8
+黑龙江卫视高清,https://tv.bfsu.edu.cn/hls/hljhd.m3u8
+吉林卫视高清,https://tv.bfsu.edu.cn/hls/jlhd.m3u8
+辽宁卫视高清,https://tv.bfsu.edu.cn/hls/lnhd.m3u8
+深圳卫视高清,https://tv.bfsu.edu.cn/hls/szhd.m3u8
+广东卫视高清,https://tv.bfsu.edu.cn/hls/gdhd.m3u8
+湖北卫视高清,https://tv.bfsu.edu.cn/hls/hbhd.m3u8
+山东卫视高清,https://tv.bfsu.edu.cn/hls/sdhd.m3u8
+重庆卫视高清,https://tv.bfsu.edu.cn/hls/cqhd.m3u8
+福建东南卫视高清,https://tv.bfsu.edu.cn/hls/dnhd.m3u8
+陕西卫视高清,https://tv.bfsu.edu.cn/hls/sxhd.m3u8
+四川卫视高清,https://tv.bfsu.edu.cn/hls/schd.m3u8
+江西卫视高清,https://tv.bfsu.edu.cn/hls/jxhd.m3u8
+河南卫视高清,https://tv.bfsu.edu.cn/hls/hnhd.m3u8
+海南卫视高清,https://tv.bfsu.edu.cn/hls/lyhd.m3u8
+贵州卫视高清,https://tv.bfsu.edu.cn/hls/gzhd.m3u8
+广西卫视高清,https://tv.bfsu.edu.cn/hls/gxhd.m3u8
+三沙卫视高清,https://tv.bfsu.edu.cn/hls/sshd.m3u8
+重温经典高清,https://tv.bfsu.edu.cn/hls/cwjdhd.m3u8
+凤凰资讯,https://tv.bfsu.edu.cn/hls/fhzx.m3u8
+凤凰中文,https://tv.bfsu.edu.cn/hls/fhzw.m3u8
+凤凰电影,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
+Discovery,https://tv.bfsu.edu.cn/hls/discovery.m3u8
+国家地理,https://tv.bfsu.edu.cn/hls/natlgeo.m3u8
+Channel V,https://tv.bfsu.edu.cn/hls/channelv.m3u8
+星空卫视,https://tv.bfsu.edu.cn/hls/startv.m3u8
+Star Sports,https://tv.bfsu.edu.cn/hls/starsports.m3u8
+河北卫视,https://tv.bfsu.edu.cn/hls/hebtv.m3u8
+西藏卫视,https://tv.bfsu.edu.cn/hls/xztv.m3u8
+内蒙古卫视,https://tv.bfsu.edu.cn/hls/nmtv.m3u8
+青海卫视,https://tv.bfsu.edu.cn/hls/qhtv.m3u8
+山西卫视,https://tv.bfsu.edu.cn/hls/sxrtv.m3u8
+厦门卫视,https://tv.bfsu.edu.cn/hls/xmtv.m3u8
+新疆卫视,https://tv.bfsu.edu.cn/hls/xjtv.m3u8
+云南卫视,https://tv.bfsu.edu.cn/hls/yntv.m3u8
+宁夏卫视,https://tv.bfsu.edu.cn/hls/nxtv.m3u8
+甘肃卫视,https://tv.bfsu.edu.cn/hls/gstv.m3u8
+兵团卫视,https://tv.bfsu.edu.cn/hls/bttv.m3u8
+延边卫视,https://tv.bfsu.edu.cn/hls/ybtv.m3u8
+CHC家庭影院,https://tv.bfsu.edu.cn/hls/chctv.m3u8
+CHC动作电影,https://tv.bfsu.edu.cn/hls/chcatv.m3u8
+金鹰卡通,https://tv.bfsu.edu.cn/hls/jykttv.m3u8
+辽宁影视剧,https://tv.bfsu.edu.cn/hls/lnysjtv.m3u8
+中国教育电视台1,https://tv.bfsu.edu.cn/hls/cetv1.m3u8
+中国教育电视台3,https://tv.bfsu.edu.cn/hls/cetv3.m3u8
+中国教育电视台4,https://tv.bfsu.edu.cn/hls/cetv4.m3u8
+山东教育电视台,https://tv.bfsu.edu.cn/hls/sdetv.m3u8
+央广中国之声,https://tv.bfsu.edu.cn/hls/cnrzgzsgb.m3u8
+央广经济之声,https://tv.bfsu.edu.cn/hls/cnrjjzsgb.m3u8
+央广音乐之声,https://tv.bfsu.edu.cn/hls/cnryyzsgb.m3u8
+央广都市之声,https://tv.bfsu.edu.cn/hls/cnrdszsgb.m3u8
+央广文艺之声,https://tv.bfsu.edu.cn/hls/cnrwyzsgb.m3u8
+央广娱乐广播,https://tv.bfsu.edu.cn/hls/cnrylgb.m3u8
+央广交通广播,https://tv.bfsu.edu.cn/hls/cnrjtgb.m3u8
+央广香港广播,https://tv.bfsu.edu.cn/hls/cnrxgzsgb.m3u8
+北京新闻,https://tv.bfsu.edu.cn/hls/bjxwgb.m3u8
+北京故事广播,https://tv.bfsu.edu.cn/hls/bjgsgb.m3u8
+北京文艺广播,https://tv.bfsu.edu.cn/hls/bjwygb.m3u8
+北京城市,https://tv.bfsu.edu.cn/hls/bjcsgb.m3u8
+北京体育,https://tv.bfsu.edu.cn/hls/bjtygb.m3u8
+北京交通,https://tv.bfsu.edu.cn/hls/bjjtgb.m3u8
+北京音乐,https://tv.bfsu.edu.cn/hls/bjyygb.m3u8
 
 北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611
 东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
