@@ -16,6 +16,23 @@
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-19.m3u8$V4(线路7)
 凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv$V4(线路8)
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+凤凰香港,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fhkphoenix_twn
+凤凰卫视,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fphoenixtv_hd
+凤凰资讯,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fphoenixinfo_hd
+凤凰卫视,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fphoenixtv_hd
+中天新闻HD,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fctinews
+TVBS HD,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Ftvbs
+TVBS新闻,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Ftvbs_n
+东森电影,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fettvmovie
+东森洋片,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fettvwestern
+东森幼幼,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fyoyo_twn
+龙华洋片,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Flunghuawestern_twn
+龙详时代,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Flungxiangtime_twn
+龙华戏剧,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Flunghuaxiju_twn
+龙华偶像,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Flunghuaidol_twn
+龙华卡通,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fjingtiancartoon_twn
+美亚电影,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fmeiyamovie_twn
+星卫电影,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/ljljlj.js?id=4987%2Fxingwei_movie
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
