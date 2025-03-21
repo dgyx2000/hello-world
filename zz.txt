@@ -1,4 +1,8 @@
 香港台标清,#genre#
+
+凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
 凤凰中文,http://108.181.20.221:27347/livehttpplay?channel_id=20065$V4(线路1)
 凤凰资讯,http://108.181.20.221:27347/livehttpplay?channel_id=20066$V4(线路1)
 凤凰香港,http://108.181.20.221:27347/livehttpplay?channel_id=20067$V4(线路1)
