@@ -133,478 +133,8 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8 
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
-央卫IPV4,#genre#
-
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV16,http://223.105.252.60/PLTV/4/224/3221228314/index.m3u8?servicetype=1
-CCTV16,http://223.105.252.60/PLTV/4/224/3221228320/index.m3u8?servicetype=1
-CCTV16,http://223.105.252.60/PLTV/4/224/3221228516/index.m3u8?servicetype=1
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
-CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-安徽卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=2
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=1
-东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=1
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=1
-广西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gxws-sd/1500.m3u8?innersid=2
-贵州卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=2
-海南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=2
-河北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hebeiws-sd/1500.m3u8?innersid=2
-黑龙江视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=2
-湖北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=2
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=2
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=2
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=1
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=1
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=2
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=2
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=2
-山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=2
-山西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=2
-陕西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sxws-sd/1500.m3u8?innersid=2
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=2
-天津卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=2
-西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=2
-新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=2
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6
-
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611
-东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305
-黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=11095614579634751142
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=2816365878468795314
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=14912719076157451667
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697
-山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=15000776628606995758
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=8984720984732853831
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383
-
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=ace
-东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=ace
-天津卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=ace
-重庆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cqws-sd/1500.m3u8?innersid=ace
-黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=ace
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=ace
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=ace
-内蒙古卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nmws-sd/1500.m3u8?innersid=ace
-宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=ace
-陕西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sxws-sd/1500.m3u8?innersid=ace
-河北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hebeiws-sd/1500.m3u8?innersid=ace
-山西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=ace
-山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=ace
-安徽卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=ace
-河南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=ace
-湖北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=ace
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=ace
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=ace
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=ace
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=ace
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=ace
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=ace
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=ace
-广西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gxws-sd/1500.m3u8?innersid=ace
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=ace
-贵州卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=ace
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=ace
-新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=ace
-兵团卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/btws-sd/1500.m3u8?innersid=ace
-西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=ace
-海南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lyws-sd/1500.m3u8?innersid=ace
-
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087&amp
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087&amp
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305&amp
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305&amp
-黑龙江台,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480&amp
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225&amp
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=11095614579634751142&amp
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=14912719076157451667&amp
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736&amp
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697&amp
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933&amp
-上海卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318&amp
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758&amp
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=17488930753778751907&amp
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383&amp
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611&amp
-
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228099/index.m3u8?servicetype=1
-北京卫视,http://223.105.252.60/PLTV/4/224/3221228115/index.m3u8?servicetype=1
-浙江卫视,http://223.105.252.60/PLTV/4/224/3221228147/index.m3u8?servicetype=1
-东方卫视,http://223.105.252.60/PLTV/4/224/3221228150/index.m3u8?servicetype=1
-国外电影,http://223.105.252.60/PLTV/4/224/3221228685/index.m3u8?servicetype=1
-国内电影,http://223.105.252.60/PLTV/4/224/3221228693/index.m3u8?servicetype=1
-电视剧,http://223.105.252.60/PLTV/4/224/3221228697/index.m3u8?servicetype=1
-电视剧2,http://223.105.252.60/PLTV/4/224/3221228699/index.m3u8?servicetype=1
-电视剧3,http://223.105.252.60/PLTV/4/224/3221228702/index.m3u8?servicetype=1
-风云音乐,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_FENGYUNYY-CQ.m3u8
-风云足球,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_FENGSHANGZQ-CQ.m3u8
-世界地理,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SHIJIEDL-CQ.m3u8
-风云剧场,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_FENGYUNJC-CQ.m3u8
-兵器科技,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_BINGQIKJ-CQ.m3u8
-央视台球,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_TAIQIU-CQ.m3u8
-高尔夫网球,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-GOLF-CQ.m3u8
-女性时尚,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_NVXINGSS-CQ.m3u8
-电视指南,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_DIANSHIZN-CQ.m3u8
-第一剧场,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_DIYIJC-CQ.m3u8
-怀旧剧场,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HUAIJIUJC-CQ.m3u8
-文化精品,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CCTV-WENHUA-CQ.m3u8
-CETV早期教育,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CETV-ZQJY-CQ.m3u8
-
-贵州卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_GUIZHOU-CQ.m3u8
-湖南卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HUNAN-HD-265-8M.m3u8
-江苏卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_JIANGSU-HD-265-8M.m3u8
-东方卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_DONGFANG-HD-265-8M.m3u8
-北京卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_BEIJING-HD-265-8M.m3u8
-广东卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_GUANGDONG-HD-265-8M.m3u8
-山东卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SHANDONG-HD-265-8M.m3u8
-深圳卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SHENZHEN-HD-265-8M.m3u8
-湖北卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HUBEI-HD-265-8M.m3u8
-浙江卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_ZHEJIANG-HD-265-8M.m3u8
-黑龙江卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HEILONGJIANG-HD-265-8M.m3u8
-天津卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_TIANJIN-HD-265-8M.m3u8
-安徽卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_ANHUI-HD-265-8M.m3u8
-辽宁卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_LIAONING-HD-265-8M.m3u8
-东南卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=H265-5500k-1080P-dongnanstv.m3u8
-吉林卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_JILIN-CQ.m3u8
-四川卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SICHUAN-CQ.m3u8
-江西卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_JIANGXI-CQ.m3u8
-河北卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HEBEI-CQ.m3u8
-河南卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_HENAN-CQ.m3u8
-重庆卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_CHONGQING-CQ.m3u8
-云南卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_YUNNAN-HQ.m3u8
-三沙卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=G_SANSHA-HQ.m3u8
-海南卫视,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=HD-8000k-1080P-lvyoustv.m3u8
-上海纪实人文,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=H265-5500k-1080P-shanghaijishi.m3u8
-北京纪实科教,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=HD-8000k-1080P-beijingjishi.m3u8
-
-
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=m3u8
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
-
-家庭影院咪咕,http://z.b.bkpcp.top/m.php?id=jtyy
-东方影视咪咕,http://z.b.bkpcp.top/m.php?id=shys
-陕西卫视咪咕,http://z.b.bkpcp.top/m.php?id=sxws
-湖北卫视咪咕,http://z.b.bkpcp.top/m.php?id=hubws
-江西卫视咪咕,http://z.b.bkpcp.top/m.php?id=jxws
-江苏卫视咪咕,http://z.b.bkpcp.top/m.php?id=jsws
-广东卫视咪咕,http://z.b.bkpcp.top/m.php?id=gdws
-游戏风云咪咕,http://z.b.bkpcp.top/m.php?id=yxfy
-七彩戏剧咪咕,http://z.b.bkpcp.top/m.php?id=qcxj
-欢笑剧场咪咕,http://z.b.bkpcp.top/m.php?id=hxjc
-劲爆体育咪咕,http://z.b.bkpcp.top/m.php?id=jbty
-魅力足球咪咕,http://z.b.bkpcp.top/m.php?id=mlzq
-
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
-CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-安徽卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=2
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=1
-东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=1
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=1
-广西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gxws-sd/1500.m3u8?innersid=2
-贵州卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=2
-海南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=2
-河北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hebeiws-sd/1500.m3u8?innersid=2
-黑龙江视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=2
-湖北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=2
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=2
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=2
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=1
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=1
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=2
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=2
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=2
-山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=2
-山西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=2
-陕西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sxws-sd/1500.m3u8?innersid=2
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=2
-天津卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=2
-西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=2
-新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=2
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6
-
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611
-东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305
-黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=11095614579634751142
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=2816365878468795314
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=14912719076157451667
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697
-山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=15000776628606995758
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=8984720984732853831
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383
-
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/2500.m3u8?innersid=ace
-东方卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=ace
-天津卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/tjws-sd/1500.m3u8?innersid=ace
-重庆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cqws-sd/1500.m3u8?innersid=ace
-黑龙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=ace
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=ace
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=ace
-内蒙古卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nmws-sd/1500.m3u8?innersid=ace
-宁夏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/nxws-sd/1500.m3u8?innersid=ace
-陕西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sxws-sd/1500.m3u8?innersid=ace
-河北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hebeiws-sd/1500.m3u8?innersid=ace
-山西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shanxiws-sd/1500.m3u8?innersid=ace
-山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=ace
-安徽卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ahws-sd/1500.m3u8?innersid=ace
-河南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=ace
-湖北卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=ace
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=ace
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=ace
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=ace
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=ace
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=ace
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=ace
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=ace
-广西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gxws-sd/1500.m3u8?innersid=ace
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=ace
-贵州卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gzws-sd/1500.m3u8?innersid=ace
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=ace
-新疆卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=ace
-兵团卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/btws-sd/1500.m3u8?innersid=ace
-西藏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/xzws-sd/1500.m3u8?innersid=ace
-海南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lyws-sd/1500.m3u8?innersid=ace
-
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087&amp
-东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087&amp
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305&amp
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305&amp
-黑龙江台,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hljws-hd/2500.m3u8?innersid=3559146512286674480&amp
-湖南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/hnws-hd/2500.m3u8?innersid=11355377224826061225&amp
-吉林卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jlws-hd/2500.m3u8?innersid=11095614579634751142&amp
-江苏卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jsws-hd/2500.m3u8?innersid=14912719076157451667&amp
-江西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/jxws-hd/2500.m3u8?innersid=14570431181364255736&amp
-辽宁卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/lnws-hd/2500.m3u8?innersid=6324592032119595697&amp
-四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933&amp
-上海卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318&amp
-深圳卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758&amp
-云南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=17488930753778751907&amp
-浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383&amp
-北京卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611&amp
-
-江苏卫视,http://223.105.252.60/PLTV/4/224/3221228099/index.m3u8?servicetype=1
-北京卫视,http://223.105.252.60/PLTV/4/224/3221228115/index.m3u8?servicetype=1
-浙江卫视,http://223.105.252.60/PLTV/4/224/3221228147/index.m3u8?servicetype=1
-东方卫视,http://223.105.252.60/PLTV/4/224/3221228150/index.m3u8?servicetype=1
-国外电影,http://223.105.252.60/PLTV/4/224/3221228685/index.m3u8?servicetype=1
-国内电影,http://223.105.252.60/PLTV/4/224/3221228693/index.m3u8?servicetype=1
-电视剧,http://223.105.252.60/PLTV/4/224/3221228697/index.m3u8?servicetype=1
-电视剧2,http://223.105.252.60/PLTV/4/224/3221228699/index.m3u8?servicetype=1
-电视剧3,http://223.105.252.60/PLTV/4/224/3221228702/index.m3u8?servicetype=1
-
-
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
-CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-东方影视,http://z.b.bkpcp.top/m.php?id=shys
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
-湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
-七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
-欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-
-咪咕视频,#genre#
-咪咕视频1,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000005969&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频2,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000007218&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频3,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000008001&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频4,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000010129&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频5,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000010948&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频6,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000028638&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频7,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000031494&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频8,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000005837&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频9,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011518&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频10,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011519&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频11,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011520&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频12,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011521&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频13,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011522&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频14,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=2000000003000000063&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频15,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=1000000006000270004&key=关注公共号❤：AI科技生活$8M FHD
-咪咕游戏赛事1,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000008176&key=关注公共号❤：AI科技生活$8M FHD
-咪咕足球赛事2,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000005308&key=关注公共号❤：AI科技生活$8M FHD
-咪咕足球赛事3,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000008379&key=关注公共号❤：AI科技生活$8M FHD
-咪咕视频1,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000000097&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频2,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000002019&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频3,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000003915&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频4,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000004193&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频5,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000006077&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频6,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000006658&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频7,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000009788&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频8,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000010833&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频9,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000011297&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频10,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000011518&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频11,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000012558&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频12,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000012616&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频13,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000015470&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频14,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000019839&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频15,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000021904&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频16,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000025380&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频17,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000027691&key=关注公共号❤：AI科技生活$5M FHD
-咪咕视频18,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000031669&key=关注公共号❤：AI科技生活$5M FHD
-咪咕体育4K,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000005180&key=关注公共号❤：AI科技生活$30M UHD
-咪咕足球赛事1,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000002809&key=关注公共号❤：AI科技生活$5M FHD
-咪咕足球赛事2,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000015560&key=关注公共号❤：AI科技生活$5M FHD
-咪咕足球赛事3,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000023434&key=关注公共号❤：AI科技生活$5M FHD
-
-往年春晚,#genre#
-
-1983年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-1984年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-1985年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-1986年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-1987年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-1988年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-1989年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-1990年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
-1991年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-1992年中央电视台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-1993年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-1994年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-1995年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-1996年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-1997年中央电视台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-1998年中央电视台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-1999年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-2000年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-2001年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-2002年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-2003年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-2004年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-2005年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-2006年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-2007年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-2008年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-2009年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-2010年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-2011年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-2012年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
-2013年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-2014年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-2015年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
- 2016年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
-2017年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-2018年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/610_ae5255ad/1000k/hls/index.m3u8
-2019年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-2020年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-2021年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-2022年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-2023年中央广播电视总台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-2024年中央广播电视总台春节联欢晚会【CCTV1综合频道】,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-2024年中央广播电视总台春节联欢晚会【CCTV4K超高清频道】https://v10.dious.cc/20240209/4AK9UB5p/index.m3u8
-2024年辽宁卫视春节联欢晚会（上）,https://v10.dious.cc/20240209/J95B9fT5/index.m3u8
-2024年辽宁卫视春节联欢晚会（下）,https://v10.dious.cc/20240209/HWVp60d1/index.m3u8
-2024年深圳卫视春节联欢晚会,https://v10.dious.cc/20240209/DKcsA9sZ/index.m3u8
-2024年安徽卫视春节联欢晚会,https://v10.dious.cc/20240208/LHLdSBLv/index.m3u8
-2024吉林春晚,https://v10.dious.cc/20240208/9ahrnAPw/index.m3u8
-2024年山东卫视春节联欢晚会,https://v10.dious.cc/20240208/mJvkOFpp/index.m3u8
-2024年河南卫视春节联欢晚会,https://v10.dious.cc/20240208/AN4hlNqo/index.m3u8
-2024年山西卫视春节联欢晚会,https://v10.dious.cc/20240208/85CjUOf8/index.m3u8
-2024年北京卫视春节联欢晚会,https://v10.dious.cc/20240210/Ll7WeunD/index.m3u8
-2024年湖北卫视春节联欢晚会,https://v10.dious.cc/20240210/pOo0DnPW/index.m3u8
-2024云南卫视春节联欢晚会,https://v10.dious.cc/20240210/yOFfQfxj/index.m3u8
-2024年海南卫视春节联欢晚会,https://v10.dious.cc/20240210/vaplHwkP/index.m3u8
-2024年陕西卫视春节联欢晚会https://v10.dious.cc/20240210/yYlVw3Ur/index.m3u8
-2024安徽卫视农民春节联欢晚会,https://v10.dious.cc/20240210/UnLrYixW/index.m3u8
-2024年中国杂技大联欢,https://v10.dious.cc/20240210/672HyyQ9/index.m3u8
-启航2024 CCTV跨年晚会【CCTV综艺频道】,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
-2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
-2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
-
 CCTV(移动专用),#genre#
+
 CCTV1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
 CCTV3,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000371/index.m3u8
@@ -735,7 +265,9 @@ CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+
 卫视(移动专用),#genre#
+
 东南卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
 东方卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
 东方卫视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
@@ -1124,7 +656,9 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 四川康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 青海安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+
 山东(移动专用),#genre#
+
 山东齐鲁,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
 山东体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
 山东体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000400/index.m3u8
@@ -1499,6 +1033,7 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 山东经济广播,http://39.134.144.6:8089/PLTV/88888888/224/3221226609/index.m3u8
 
 轮播(移动专用),#genre#
+
 CHC动作电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
 CHC家庭影院,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
 CHC影迷电影,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
@@ -1545,6 +1080,7 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
 地方(移动专用),#genre#
+
 北京纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 求索纪录,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
 湖南金鹰纪实,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
@@ -1583,6 +1119,7 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 重庆汽摩,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000702/index.m3u8
 
 上海(移动专用),#genre#
+
 SiTV东方财经,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
 SiTV乐游,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
 SiTV劲爆体育,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
@@ -1607,6 +1144,7 @@ SiTV生活时尚,http://39.134.144.6:8089/PLTV/88888888/224/3221226579/index.m3u
 SiTV金色学堂,http://39.134.144.6:8089/PLTV/88888888/224/3221226581/index.m3u8
 
 卡通(移动专用),#genre#
+
 动漫秀场,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
 上海哈哈炫动,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
 北京卡酷少儿,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
@@ -1642,4 +1180,109 @@ SiTV金色学堂,http://39.134.144.6:8089/PLTV/88888888/224/3221226581/index.m3u
 湖南金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 
 
+咪咕视频,#genre#
 
+咪咕视频1,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000005969&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频2,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000007218&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频3,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000008001&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频4,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000010129&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频5,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000010948&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频6,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000028638&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频7,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000031494&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频8,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000005837&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频9,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011518&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频10,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011519&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频11,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011520&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频12,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011521&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频13,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000020000011522&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频14,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=2000000003000000063&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频15,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=1000000006000270004&key=关注公共号❤：AI科技生活$8M FHD
+咪咕游戏赛事1,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000008176&key=关注公共号❤：AI科技生活$8M FHD
+咪咕足球赛事2,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000005308&key=关注公共号❤：AI科技生活$8M FHD
+咪咕足球赛事3,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000001000008379&key=关注公共号❤：AI科技生活$8M FHD
+咪咕视频1,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000000097&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频2,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000002019&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频3,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000003915&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频4,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000004193&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频5,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000006077&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频6,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000006658&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频7,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000009788&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频8,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000010833&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频9,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000011297&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频10,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000011518&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频11,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000012558&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频12,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000012616&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频13,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000015470&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频14,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000019839&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频15,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000021904&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频16,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000025380&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频17,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000027691&key=关注公共号❤：AI科技生活$5M FHD
+咪咕视频18,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000031669&key=关注公共号❤：AI科技生活$5M FHD
+咪咕体育4K,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000005180&key=关注公共号❤：AI科技生活$30M UHD
+咪咕足球赛事1,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000002809&key=关注公共号❤：AI科技生活$5M FHD
+咪咕足球赛事2,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000015560&key=关注公共号❤：AI科技生活$5M FHD
+咪咕足球赛事3,https://d.kstore.dev/k-web/ku9/js/download/8344/ku9/123.js?channel-id=FifastbLive&Contentid=3000000010000023434&key=关注公共号❤：AI科技生活$5M FHD
+
+往年春晚,#genre#
+
+1983年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+1984年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+1985年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+1986年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+1987年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+1988年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+1989年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+1990年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
+1991年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+1992年中央电视台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+1993年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+1994年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+1995年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+1996年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+1997年中央电视台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+1998年中央电视台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+1999年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+2000年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+2001年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+2002年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+2003年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+2004年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+2005年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+2006年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+2007年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+2008年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+2009年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+2010年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+2011年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+2012年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
+2013年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+2014年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+2015年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+ 2016年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
+2017年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+2018年中央电视台春节联欢晚会,https://cdn8.yzzy-online.com/20220704/610_ae5255ad/1000k/hls/index.m3u8
+2019年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+2020年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+2021年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+2022年中央广播电视总台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+2023年中央广播电视总台春节联欢晚会,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+2024年中央广播电视总台春节联欢晚会【CCTV1综合频道】,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2024年中央广播电视总台春节联欢晚会【CCTV4K超高清频道】https://v10.dious.cc/20240209/4AK9UB5p/index.m3u8
+2024年辽宁卫视春节联欢晚会（上）,https://v10.dious.cc/20240209/J95B9fT5/index.m3u8
+2024年辽宁卫视春节联欢晚会（下）,https://v10.dious.cc/20240209/HWVp60d1/index.m3u8
+2024年深圳卫视春节联欢晚会,https://v10.dious.cc/20240209/DKcsA9sZ/index.m3u8
+2024年安徽卫视春节联欢晚会,https://v10.dious.cc/20240208/LHLdSBLv/index.m3u8
+2024吉林春晚,https://v10.dious.cc/20240208/9ahrnAPw/index.m3u8
+2024年山东卫视春节联欢晚会,https://v10.dious.cc/20240208/mJvkOFpp/index.m3u8
+2024年河南卫视春节联欢晚会,https://v10.dious.cc/20240208/AN4hlNqo/index.m3u8
+2024年山西卫视春节联欢晚会,https://v10.dious.cc/20240208/85CjUOf8/index.m3u8
+2024年北京卫视春节联欢晚会,https://v10.dious.cc/20240210/Ll7WeunD/index.m3u8
+2024年湖北卫视春节联欢晚会,https://v10.dious.cc/20240210/pOo0DnPW/index.m3u8
+2024云南卫视春节联欢晚会,https://v10.dious.cc/20240210/yOFfQfxj/index.m3u8
+2024年海南卫视春节联欢晚会,https://v10.dious.cc/20240210/vaplHwkP/index.m3u8
+2024年陕西卫视春节联欢晚会https://v10.dious.cc/20240210/yYlVw3Ur/index.m3u8
+2024安徽卫视农民春节联欢晚会,https://v10.dious.cc/20240210/UnLrYixW/index.m3u8
+2024年中国杂技大联欢,https://v10.dious.cc/20240210/672HyyQ9/index.m3u8
+启航2024 CCTV跨年晚会【CCTV综艺频道】,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
+2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
+2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
