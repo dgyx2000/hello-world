@@ -435,24 +435,8 @@ CCTV15,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001815
 CCTV16,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600098637
 CCTV17,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001810
 CGTN,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600014550
-CGTN纪录,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600084781
-CGTN俄语,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600084758
-CGTN法语,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600084704
-CGTN西语,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600084744
-CGTN阿语,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600084782
 CGTN,http://A/ku9/js/web.js?id=https://www.cgtn.com/tv
 CGTN,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600014550
-CGTN Español,http://A/ku9/js/web.js?id=https://espanol.cgtn.com/en-directo
-CGTN Español,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600084744
-CGTN Français,http://A/ku9/js/web.js?id=https://francais.cgtn.com/channel
-CGTN Français,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600084704
-CGTN العربية,http://A/ku9/js/web.js?id=https://arabic.cgtn.com/channel
-CGTN العربية,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600084782
-CGTN Русский,http://A/ku9/js/web.js?id=https://russian.cgtn.com/channel
-CGTN Русский,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600084758
-CGTN Documentary,http://A/ku9/js/web.js?id=https://www.cgtn.com/channel/documentary
-CGTN Documentary,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600084781
-
 风云剧场,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099658
 第一剧场,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099655
 怀旧剧场,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600099620
@@ -500,7 +484,6 @@ CGTN Documentary,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid
 山东综艺(网页),https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://v.iqilu.com/live/zypd/
 山东体育(网页),https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://v.iqilu.com/live/typd/
 山东教育(网页),https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.sdetv.com.cn/edu/pc/live/index.html
-烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 威海新闻综合(网页),https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
 威海都市生活(网页),https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
 威海海洋(网页),https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
