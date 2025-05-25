@@ -390,6 +390,9 @@ CGTN(HD),http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CGTN-HD/index.m3u8
 唐山公共,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-TSGG-HD/index.m3u8
 
 央视网,#genre#
+
+CCTV6,video://https://m.1905.com/m/cctv6/gzh/
+1905电影网,video://https://m.1905.com/m/xl/live/
 CCTV1,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv1/
 CCTV2,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv2/
 CCTV3,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv3/
