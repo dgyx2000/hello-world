@@ -1445,9 +1445,6 @@ CGTN记录,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225602/.m
 晴彩广场舞,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226472/.m3u8
 晴彩篮球,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226147/.m3u8
 晴彩篮球,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/.m3u8
-家有购物,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225708/.m3u8
-央广购物,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225682/.m3u8
-央广购物,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225679/.m3u8
 
 央视频(央网),#genre#
 
@@ -1739,7 +1736,6 @@ CCTV4美洲,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctvamerica/
 一起看港剧(斗鱼),https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.douyu.com/5061550
 三生三世枕上书,http://zby.xjqxz.top/sssszss/live.m3u8
 周星星影台,https://epg.pw/stream/697d8897aa092fac7beb31b9806dfd4bb3197e96d9b15e752766d89f5fb66672.ctv
-
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
 重温经典,http://php.jdshipin.com:8880/iptv.php?id=cwjd
@@ -1805,7 +1801,6 @@ YY电视剧轮播(网页),#genre#
 西游记后传,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.yy.com/1382736846
 回家的诱惑,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.yy.com/1354658048
 【僵尸道长】林正英,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.yy.com/30668277
-
 新白娘子传奇,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.yy.com/634132
 包青天(金超群版),https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.yy.com/335416
 家族荣耀,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.yy.com/1382745103
@@ -2053,7 +2048,6 @@ JJ斗地主,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https:
 雪中悍刀行,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.huya.com/11336592
 星汉灿烂·月生沧海,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.huya.com/11336591
 将夜,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.huya.com/11352885
-
 父母爱情,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.huya.com/11602071
 大染坊,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.huya.com/11602086
 地下交通站,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https://www.huya.com/11342433
@@ -2176,7 +2170,6 @@ JJ斗地主,https://d.kstore.dev/download/k-web/ku9/js/8344/ku9/ku9.js?id=https:
 孔云龙扒马褂,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0 
 经典小品,http://120.77.28.4:8648/douyu.php?id=9067836 
 相声小品[960x540],http://120.77.28.4:8648/douyu.php?id=9286868 
-
 
 听音乐,#genre#
 
