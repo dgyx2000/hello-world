@@ -543,6 +543,7 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 
 山东(JS),#genre#
 
+莱州综合,http://A/PLTV/ku9/js/qilu.js?id=ytlzzh
 长清新闻,http://A/PLTV/ku9/js/qilu.js?id=jncqxw
 长清生活,http://A/PLTV/ku9/js/qilu.js?id=jncqsh
 济铁电视台,http://A/PLTV/ku9/js/qilu.js?id=jnjrtv
@@ -594,7 +595,7 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 高密党建农科,http://A/PLTV/ku9/js/qilu.js?id=wfgmdj
 寒亭新闻,http://A/PLTV/ku9/js/qilu.js?id=wfhtxw
 奎文电视台,http://A/PLTV/ku9/js/qilu.js?id=wfkwtv
-临朐朐新闻综合,http://A/PLTV/ku9/js/qilu.js?id=wflqxw
+临朐新闻综合,http://A/PLTV/ku9/js/qilu.js?id=wflqxw
 青州综合,http://A/PLTV/ku9/js/qilu.js?id=wfqzzh
 青州文化旅游,http://A/PLTV/ku9/js/qilu.js?id=wfqzwh
 潍城TV,http://A/PLTV/ku9/js/qilu.js?id=wfwc
@@ -610,7 +611,6 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 莱山影视,http://A/PLTV/ku9/js/qilu.js?id=ytlsys
 莱阳综合,http://A/PLTV/ku9/js/qilu.js?id=ytlyzh
 莱阳民生综艺,http://A/PLTV/ku9/js/qilu.js?id=ytlyms
-莱州综合,http://A/PLTV/ku9/js/qilu.js?id=ytlzzh
 牟平综合,http://A/PLTV/ku9/js/qilu.js?id=ytmpzh
 蓬莱综合,http://A/PLTV/ku9/js/qilu.js?id=ytplzh
 蓬莱综艺,http://A/PLTV/ku9/js/qilu.js?id=ytplzy
@@ -640,7 +640,7 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 滕州综合,http://A/PLTV/ku9/js/qilu.js?id=zztzzh
 滕州民生,http://A/PLTV/ku9/js/qilu.js?id=zztzms
 薛城新闻综合,http://A/PLTV/ku9/js/qilu.js?id=zzxcxw
-峄峄城综合,http://A/PLTV/ku9/js/qilu.js?id=zzyczh
+峄城综合,http://A/PLTV/ku9/js/qilu.js?id=zzyczh
 滨城TV,http://A/PLTV/ku9/js/qilu.js?id=bzbctv
 博兴综合,http://A/PLTV/ku9/js/qilu.js?id=bzbxzh
 博兴生活,http://A/PLTV/ku9/js/qilu.js?id=bzbxsh
@@ -683,8 +683,8 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 牡丹区新闻综合,http://A/PLTV/ku9/js/qilu.js?id=hzmdxw
 牡丹区综艺,http://A/PLTV/ku9/js/qilu.js?id=hzmdzy
 单县综合,http://A/PLTV/ku9/js/qilu.js?id=hzsxzh
-郓郓城新闻,http://A/PLTV/ku9/js/qilu.js?id=hzycxw
-郓郓城综艺,http://A/PLTV/ku9/js/qilu.js?id=hzyczy
+郓城新闻,http://A/PLTV/ku9/js/qilu.js?id=hzycxw
+郓城综艺,http://A/PLTV/ku9/js/qilu.js?id=hzyczy
 嘉祥综合,http://A/PLTV/ku9/js/qilu.js?id=jijiazh
 嘉祥生活,http://A/PLTV/ku9/js/qilu.js?id=jijiash
 金乡综合,http://A/PLTV/ku9/js/qilu.js?id=jijxzh
@@ -701,12 +701,12 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 汶上生活,http://A/PLTV/ku9/js/qilu.js?id=jiwssh
 鱼台新闻,http://A/PLTV/ku9/js/qilu.js?id=jiytxw
 鱼台生活,http://A/PLTV/ku9/js/qilu.js?id=jiytsh
-兖兖州新闻,http://A/PLTV/ku9/js/qilu.js?id=jiyzxw
-兖兖州生活,http://A/PLTV/ku9/js/qilu.js?id=jiyzsh
+兖州新闻,http://A/PLTV/ku9/js/qilu.js?id=jiyzxw
+兖州生活,http://A/PLTV/ku9/js/qilu.js?id=jiyzsh
 邹城综合,http://A/PLTV/ku9/js/qilu.js?id=jizczh
 邹城文化生活,http://A/PLTV/ku9/js/qilu.js?id=jizcwh
-茌茌平综合,http://A/PLTV/ku9/js/qilu.js?id=lccpzh
-茌茌平生活,http://A/PLTV/ku9/js/qilu.js?id=lccpsh
+茌平综合,http://A/PLTV/ku9/js/qilu.js?id=lccpzh
+茌平生活,http://A/PLTV/ku9/js/qilu.js?id=lccpsh
 东昌综合,http://A/PLTV/ku9/js/qilu.js?id=lcdczh
 东阿综合,http://A/PLTV/ku9/js/qilu.js?id=lcdezh
 东阿综艺,http://A/PLTV/ku9/js/qilu.js?id=lcdezy
@@ -726,27 +726,27 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 费县生活,http://A/PLTV/ku9/js/qilu.js?id=lyfxsh
 河东影视,http://A/PLTV/ku9/js/qilu.js?id=lyhdys
 河东综合,http://A/PLTV/ku9/js/qilu.js?id=lyhdzh
-莒莒南综合,http://A/PLTV/ku9/js/qilu.js?id=lyjnzh
-莒莒南影视,http://A/PLTV/ku9/js/qilu.js?id=lyjnys
+莒南综合,http://A/PLTV/ku9/js/qilu.js?id=lyjnzh
+莒南影视,http://A/PLTV/ku9/js/qilu.js?id=lyjnys
 兰陵综合,http://A/PLTV/ku9/js/qilu.js?id=lyllzh
 兰陵公共,http://A/PLTV/ku9/js/qilu.js?id=lyllgg
 兰山综合,http://A/PLTV/ku9/js/qilu.js?id=lylszh
-临沭沭综合,http://A/PLTV/ku9/js/qilu.js?id=lyls1
-临沭沭生活,http://A/PLTV/ku9/js/qilu.js?id=lyls2
+临沭综合,http://A/PLTV/ku9/js/qilu.js?id=lyls1
+临沭生活,http://A/PLTV/ku9/js/qilu.js?id=lyls2
 罗庄综合,http://A/PLTV/ku9/js/qilu.js?id=lylzzh
 罗庄影视,http://A/PLTV/ku9/js/qilu.js?id=lylzys
 蒙阴综合,http://A/PLTV/ku9/js/qilu.js?id=lymy1
 蒙阴2套,http://A/PLTV/ku9/js/qilu.js?id=lymy2
 平邑综合,http://A/PLTV/ku9/js/qilu.js?id=lypyzh
 平邑生活,http://A/PLTV/ku9/js/qilu.js?id=lypysh
-郯郯城综合,http://A/PLTV/ku9/js/qilu.js?id=lytc1
-郯郯城2套,http://A/PLTV/ku9/js/qilu.js?id=lytc2
+郯城综合,http://A/PLTV/ku9/js/qilu.js?id=lytc1
+郯城2套,http://A/PLTV/ku9/js/qilu.js?id=lytc2
 沂南综合,http://A/PLTV/ku9/js/qilu.js?id=lyynzh
 沂南红色影视,http://A/PLTV/ku9/js/qilu.js?id=lyynys
 沂水综合,http://A/PLTV/ku9/js/qilu.js?id=lyys1
 沂水生活,http://A/PLTV/ku9/js/qilu.js?id=lyys2
-莒莒县综合,http://A/PLTV/ku9/js/qilu.js?id=rzjx1
-莒莒县2套,http://A/PLTV/ku9/js/qilu.js?id=rzjx2
+莒县综合,http://A/PLTV/ku9/js/qilu.js?id=rzjx1
+莒县2套,http://A/PLTV/ku9/js/qilu.js?id=rzjx2
 岚山TV,http://A/PLTV/ku9/js/qilu.js?id=rzls
 五莲综合,http://A/PLTV/ku9/js/qilu.js?id=rzwlzh
 五莲文化旅游,http://A/PLTV/ku9/js/qilu.js?id=rzwlwh
