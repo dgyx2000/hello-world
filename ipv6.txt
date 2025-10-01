@@ -580,6 +580,7 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 
 齐鲁地方,#genre#
 
+莱州综合,http://langzong.340171345.cn/qilu.php?id=ytlzzh
 齐鲁频道,http://langzong.340171345.cn/qilu.php?id=qlpd
 济阳综合,http://langzong.340171345.cn/qilu.php?id=jnjyzh
 济阳影视,http://langzong.340171345.cn/qilu.php?id=jnjyys
@@ -631,7 +632,6 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 栖霞苹果,http://langzong.340171345.cn/qilu.php?id=ytqxpg
 长岛,http://langzong.340171345.cn/qilu.php?id=ytcd
 福山综合,http://langzong.340171345.cn/qilu.php?id=ytfszh
-莱州综合,http://langzong.340171345.cn/qilu.php?id=ytlzzh
 莱阳综合,http://langzong.340171345.cn/qilu.php?id=ytlyxw
 莱阳民生综艺,http://langzong.340171345.cn/qilu.php?id=ytlyms
 莱山综合,http://langzong.340171345.cn/qilu.php?id=ytlszh
@@ -3378,5 +3378,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
 醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
 醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+
 
 
