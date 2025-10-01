@@ -562,6 +562,22 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 湖南卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000006/index.m3u8
 湖南卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226783/index.m3u8
 
+四川卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8 
+四川卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000010/index.m3u8 
+四川卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226781/index.m3u8 
+东方卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000009/index.m3u8 
+东方卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000009/index.m3u8 
+东方卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226786/index.m3u8 
+江苏卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000007/index.m3u8 
+江苏卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000007/index.m3u8 
+江苏卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226778/index.m3u8 
+浙江卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000008/index.m3u8 
+浙江卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000008/index.m3u8 
+浙江卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226776/index.m3u8 
+湖南卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8 
+湖南卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000006/index.m3u8 
+湖南卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226783/index.m3u8
+
 齐鲁地方,#genre#
 
 齐鲁频道,http://langzong.340171345.cn/qilu.php?id=qlpd
@@ -3362,4 +3378,5 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
 醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
 醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+
 
