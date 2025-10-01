@@ -578,6 +578,16 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 湖南卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000006/index.m3u8 
 湖南卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226783/index.m3u8
 
+江苏卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226401/index.m3u8?fmt=ts2hls
+浙江卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226404/index.m3u8?fmt=ts2hls
+广东卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226405/index.m3u8?fmt=ts2hls
+山东卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226407/index.m3u8?fmt=ts2hls
+深圳卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?fmt=ts2hls
+四川卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8?fmt=ts2hls 
+北京卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8?fmt=ts2hls
+湖南卫视4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8?fmt=ts2hls
+CCTV16 4K,http://39.134.115.191:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls
+
 齐鲁地方,#genre#
 
 莱州综合,http://langzong.340171345.cn/qilu.php?id=ytlzzh
@@ -3378,6 +3388,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
 醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
 醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+
 
 
 
