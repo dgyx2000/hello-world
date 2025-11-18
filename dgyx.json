@@ -1,8 +1,6 @@
 {
-"storeHouse": [
-{"sourceName":"肥猫","sourceUrl":"http://肥猫.com"},
-{"sourceName":"OK公开","sourceUrl":"http://ok321.top/ok"},
-{"sourceName":"饭太硬","sourceUrl":"http://饭太硬.com/tv"},
-{"sourceName":"OK内部","sourceUrl":"http://ok321.top/tv"}
-]
+"肥猫": "http://肥猫.com",
+"OK公开": "http://ok321.top/ok",
+"饭太硬": "http://饭太硬.com/tv",
+"OK内部": "http://ok321.top/tv"
 }
