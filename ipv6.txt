@@ -70,12 +70,12 @@ CGTN-法咪咕,http://j.s.bkpcp.top/jj/cgtnf
 深圳卫视咪4k,http://j.s.bkpcp.top/jj/szws 
 山东卫视咪咕,http://j.s.bkpcp.top/jj/sdws 
 河南卫视咪咕,http://j.s.bkpcp.top/jj/hnws
- 江西卫视咪咕,http://j.s.bkpcp.top/jj/jxws 
+江西卫视咪咕,http://j.s.bkpcp.top/jj/jxws 
 湖北卫视咪咕,http://j.s.bkpcp.top/jj/hubws 
 海南卫视咪咕,http://j.s.bkpcp.top/jj/hinws 
 陕西卫视咪咕,http://j.s.bkpcp.top/jj/sxws 
 兵团卫视咪咕,http://j.s.bkpcp.top/jj/btws 
-黑龙江视咪咕,http://j.s.bkpcp.top/jj/hljws 
+黑龙江卫视咪咕,http://j.s.bkpcp.top/jj/hljws 
 CCTV-01咪咕,http://t.061899.xyz/tl/tl.php?id=cctv1 
 CCTV-02咪咕,http://t.061899.xyz/tl/tl.php?id=cctv2 
 CCTV-03咪咕,http://t.061899.xyz/tl/tl.php?id=cctv3 
@@ -123,8 +123,8 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 新疆卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xjws 
 吉林卫视咪咕,http://t.061899.xyz/tl/tl.php?id=jlws 
 西藏卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xzws 
-内蒙古视咪咕,http://t.061899.xyz/tl/tl.php?id=nmgws 
-黑龙江视咪咕,http://t.061899.xyz/tl/tl.php?id=hljws 
+内蒙古卫视咪咕,http://t.061899.xyz/tl/tl.php?id=nmgws 
+黑龙江卫视咪咕,http://t.061899.xyz/tl/tl.php?id=hljws 
 
 CCTV(移动专用),#genre#
 
@@ -3317,6 +3317,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
 醉拳2,https://vip.ffzy-play6.com/20221129/9308_1fceb255/index.m3u8
 醉拳3,https://vip.ffzy-play7.com/20221112/3468_38ba3d24/index.m3u8
+
 
 
 
