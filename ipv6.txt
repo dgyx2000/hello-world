@@ -37,7 +37,7 @@ CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf
 海南卫视咪咕,http://go.bkpcp.top/mg/hinws 
 陕西卫视咪咕,http://go.bkpcp.top/mg/sxws 
 兵团卫视咪咕,http://go.bkpcp.top/mg/btws 
-黑龙江视咪咕,http://go.bkpcp.top/mg/hljws 
+黑龙江卫视咪咕,http://go.bkpcp.top/mg/hljws 
 CCTV-01咪咕,http://j.s.bkpcp.top/jj/cctv1 
 CCTV-02咪咕,http://j.s.bkpcp.top/jj/cctv2 
 CCTV-03咪咕,http://j.s.bkpcp.top/jj/cctv3 
@@ -670,7 +670,6 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 湖南卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000006/index.m3u8
 湖南卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000006/index.m3u8
 湖南卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226783/index.m3u8
-
 四川卫视4K,http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000010/index.m3u8 
 四川卫视4K,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL40000010/index.m3u8 
 四川卫视4K,http://39.134.144.6:8089/PLTV/88888888/224/3221226781/index.m3u8 
