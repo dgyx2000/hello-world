@@ -37,7 +37,7 @@ CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf
 海南卫视咪咕,http://go.bkpcp.top/mg/hinws 
 陕西卫视咪咕,http://go.bkpcp.top/mg/sxws 
 兵团卫视咪咕,http://go.bkpcp.top/mg/btws 
-黑龙江视咪咕,http://go.bkpcp.top/mg/hljws 
+黑龙江卫视咪咕,http://go.bkpcp.top/mg/hljws 
 CCTV-01咪咕,http://j.s.bkpcp.top/jj/cctv1 
 CCTV-02咪咕,http://j.s.bkpcp.top/jj/cctv2 
 CCTV-03咪咕,http://j.s.bkpcp.top/jj/cctv3 
@@ -70,12 +70,12 @@ CGTN-法咪咕,http://j.s.bkpcp.top/jj/cgtnf
 深圳卫视咪4k,http://j.s.bkpcp.top/jj/szws 
 山东卫视咪咕,http://j.s.bkpcp.top/jj/sdws 
 河南卫视咪咕,http://j.s.bkpcp.top/jj/hnws
- 江西卫视咪咕,http://j.s.bkpcp.top/jj/jxws 
+江西卫视咪咕,http://j.s.bkpcp.top/jj/jxws 
 湖北卫视咪咕,http://j.s.bkpcp.top/jj/hubws 
 海南卫视咪咕,http://j.s.bkpcp.top/jj/hinws 
 陕西卫视咪咕,http://j.s.bkpcp.top/jj/sxws 
 兵团卫视咪咕,http://j.s.bkpcp.top/jj/btws 
-黑龙江视咪咕,http://j.s.bkpcp.top/jj/hljws 
+黑龙江卫视咪咕,http://j.s.bkpcp.top/jj/hljws 
 CCTV-01咪咕,http://t.061899.xyz/tl/tl.php?id=cctv1 
 CCTV-02咪咕,http://t.061899.xyz/tl/tl.php?id=cctv2 
 CCTV-03咪咕,http://t.061899.xyz/tl/tl.php?id=cctv3 
@@ -123,5 +123,5 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 新疆卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xjws 
 吉林卫视咪咕,http://t.061899.xyz/tl/tl.php?id=jlws 
 西藏卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xzws 
-内蒙古视咪咕,http://t.061899.xyz/tl/tl.php?id=nmgws 
-黑龙江视咪咕,http://t.061899.xyz/tl/tl.php?id=hljws 
+内蒙古卫视咪咕,http://t.061899.xyz/tl/tl.php?id=nmgws 
+黑龙江卫视咪咕,http://t.061899.xyz/tl/tl.php?id=hljws 
